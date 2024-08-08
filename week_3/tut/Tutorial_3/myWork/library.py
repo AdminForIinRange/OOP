@@ -16,5 +16,5 @@ class Library:
                 print(book)
     
 library = Library()
-library.append_book(Book("Atomic Habits", "James Clear", 234)
+library.append_book(Book("Atomic Habits", "James Clear", 234))
 library.add_book(Book("Dune", "Frank Herbert", 896))
